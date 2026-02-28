@@ -15,11 +15,11 @@ The system uses a pre-trained image classification model created with Google Tea
 
 It can classify weather into the following categories:
 
-- ☁️ Cloudy  
-- 🌫️ Foggy  
-- 🌧️ Rainy  
-- ☀️ Shine  
-- 🌅 Sunrise  
+  ☁️ Cloudy  
+  🌫️ Foggy  
+  🌧️ Rainy  
+  ☀️ Shine  
+  🌅 Sunrise  
 
 This project demonstrates real-time image classification using web technologies and machine learning.
 
