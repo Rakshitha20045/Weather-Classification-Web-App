@@ -81,8 +81,8 @@ Dataset includes weather categories such as:
 </p>
 
 <p align="center">
-  <img src="https://i.ibb.co/kVXGDc6R/Screenshot-2025-01-25-105153.png" width="48%" />
-  <img src="https://i.ibb.co/YFL2nTsX/Screenshot-2025-01-25-105210.png" width="48%" />
+  <img src="https://i.ibb.co/kVXGDc6R/Screenshot-2025-01-25-105153.png" width="40%" />
+  <img src="https://i.ibb.co/YFL2nTsX/Screenshot-2025-01-25-105210.png" width="40%" />
 </p>
 
 <p align="center">
