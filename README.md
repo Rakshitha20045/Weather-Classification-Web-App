@@ -76,7 +76,7 @@ Dataset includes weather categories such as:
 
 ### Main Interface
 <p align="center">
-  <img src="https://i.ibb.co/67JyTt62/Screenshot-2025-02-24-145247.png" width="70%" />
+  <img src="https://i.ibb.co/67JyTt62/Screenshot-2025-02-24-145247.png" width="70%" /> 
 </p>
 
 ---
