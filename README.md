@@ -9,9 +9,9 @@
 
 ## 📌 Overview
 
-The **Web-Based Weather Classification System** is a machine learning web application that classifies weather conditions in real time using a webcam feed.
+The Web-Based Weather Classification System is a machine learning web application that classifies weather conditions in real time using a webcam feed.
 
-The system uses a pre-trained image classification model created with **Google Teachable Machine** and deployed using **TensorFlow.js** to run directly in the browser.
+The system uses a pre-trained image classification model created with Google Teachable Machine and deployed using TensorFlow.js to run directly in the browser.
 
 It can classify weather into the following categories:
 
