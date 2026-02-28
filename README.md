@@ -125,8 +125,3 @@ Dataset includes weather categories such as:
 - User-friendly and responsive interface  
 
 ---
-
-
-## ⭐ Project Purpose
-
-This project demonstrates real-time weather classification using machine learning and web technologies for educational and portfolio purposes.
