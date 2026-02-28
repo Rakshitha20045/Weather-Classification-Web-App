@@ -72,8 +72,16 @@ Dataset includes weather categories such as:
 - Sunrise  
 
 ---
+## 🖼️ Application Preview
 
-## 🖼️ Application Screenshots
+### Main Interface
+<p align="center">
+  <img src="https://i.ibb.co/67JyTt62/Screenshot-2025-02-24-145247.png" width="70%" />
+</p>
+
+---
+
+### Other Screens
 
 <p align="center">
   <img src="https://i.ibb.co/zWb0qcRd/Screenshot-2025-01-25-104353.png" width="40%" />
@@ -81,16 +89,13 @@ Dataset includes weather categories such as:
 </p>
 
 <p align="center">
-  <img src="https://i.ibb.co/kVXGDc6R/Screenshot-2025-01-25-105153.png" width="48%" />
-  <img src="https://i.ibb.co/YFL2nTsX/Screenshot-2025-01-25-105210.png" width="48%" />
+  <img src="https://i.ibb.co/kVXGDc6R/Screenshot-2025-01-25-105153.png" width="40%" />
+  <img src="https://i.ibb.co/YFL2nTsX/Screenshot-2025-01-25-105210.png" width="40%" />
 </p>
 
 <p align="center">
   <img src="https://i.ibb.co/N23G5Npf/Screenshot-2025-02-24-154157.png" width="40%" />
-  <img src="https://i.ibb.co/67JyTt62/Screenshot-2025-02-24-145247.png" width="40%" />
 </p>
-
----
 
 ## ⚙️ How It Works
 
