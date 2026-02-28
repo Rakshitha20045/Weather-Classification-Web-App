@@ -76,8 +76,8 @@ Dataset includes weather categories such as:
 ## 🖼️ Application Screenshots
 
 <p align="center">
-  <img src="https://i.ibb.co/zWb0qcRd/Screenshot-2025-01-25-104353.png" width="48%" />
-  <img src="https://i.ibb.co/tTGgtNSb/Screenshot-2025-01-25-104414.png" width="48%" />
+  <img src="https://i.ibb.co/zWb0qcRd/Screenshot-2025-01-25-104353.png" width="40%" />
+  <img src="https://i.ibb.co/tTGgtNSb/Screenshot-2025-01-25-104414.png" width="40%" />
 </p>
 
 <p align="center">
