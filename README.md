@@ -1,13 +1,18 @@
 <p align="center">
   <h1 align="center">Web-Based Weather Classification System</h1>
-  <h3 align="center">Real-Time Weather Classification using Teachable Machine and TensorFlow.js</h3>
+  
+  <h3 align="center">
+    <span style="color:#2E86C1;">Real-Time Weather Classification</span> using 
+    <span style="color:#28B463;">Teachable Machine</span> and 
+    <span style="color:#AF7AC5;">TensorFlow.js</span>
+  </h3>
 </p>
 
 <p align="center">
-  <b>Machine Learning • Teachable Machine • TensorFlow.js • Web Application • Image Classification</b>
+  <b style="color:#F39C12;">
+    Machine Learning • Teachable Machine • TensorFlow.js • Web Application • Image Classification
+  </b>
 </p>
-
----
 
 ## 📌 Overview
 
