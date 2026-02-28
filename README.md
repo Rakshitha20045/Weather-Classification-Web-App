@@ -1,6 +1,5 @@
 <p align="center">
-  <h1 align="center">🌦️ Web-Based Weather Classification System</h1>
-  <h3 align="center">⚡ Real-Time Weather Classification using Teachable Machine and TensorFlow.js</h3>
+  <h1 align="center">Web Based Weather Classification System</h1>
 </p>
 
 <p align="center">
