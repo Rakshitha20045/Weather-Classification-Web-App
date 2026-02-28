@@ -15,7 +15,7 @@ The system uses a pre-trained image classification model created with Google Tea
 
 It can classify weather into the following categories:
 
-  ☁️ Cloudy  
+ - ☁️ Cloudy  
   🌫️ Foggy  
   🌧️ Rainy  
   ☀️ Shine  
